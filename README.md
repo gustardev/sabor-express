@@ -1,9 +1,13 @@
-PROGRAMA FEITO COM BASE NAS AULAS DA ALURA COM TOTAL FOCO EM BACK-END COM A TECNOLOGIA PYTHON.
 
+--------------------------------------------------------
+ ⚠️ FOI USADO ALGUMAS FUNÇÕES QUE SÓ FUNCIONARÃO EM SISTEMAS COMO MAC OS E LINUX. ⚠️
+--------------------------------------------------------
+                                                     
+ ❗PROGRAMA FEITO COM BASE NAS AULAS DA ALURA COM TOTAL FOCO EM BACK-END COM A TECNOLOGIA PYTHON. ❗
 
 
 Interface Principal do Programa SABOR EXPRESS. 🧑‍🍳🍝
-
+---
 ![Captura de tela de 2024-04-30 15-58-00](https://github.com/gustardev/sabor-express/assets/155181870/b518572a-14d2-44da-a12e-ed73c0316668)
 
 Inserindo a opção 1 entramos na categoria de cadastro do Restaurante. Um exemplo que usei foi usando o nome do Restaurante de "Restaurante Dona Vera" e em seguida a categoria "Comidas".
